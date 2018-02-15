@@ -104,6 +104,18 @@ namespace OOP_Tallinn_2018k_pr3
                 Console.WriteLine(" {0,6:f1}", su);
             }
 
+
+            Console.WriteLine("\n sorting");
+
+            AutodParklas.Sort();
+            foreach (Auto x in AutodParklas)
+            {
+                x.tryki();
+
+                Console.WriteLine(" {}");
+            }
+
+
             Console.Read();
         }
     }

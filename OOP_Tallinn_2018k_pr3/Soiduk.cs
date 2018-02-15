@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Tallinn_2018k_pr3
 {
-    abstract class Soiduk : Utiliit
+    abstract class Soiduk : Utiliit, IComparable<Soiduk>
     {
         protected int va; // väljalaske aasta  
         public string regNr { get; set; }
@@ -45,6 +45,20 @@ namespace OOP_Tallinn_2018k_pr3
 
         public abstract double arvutaHetkeHind();
 
-
+        public int CompareTo(Soiduk s)
+        {
+            if (this.arvutaHetkeHind() < s.arvutaHetkeHind())
+            {
+                return 1;
+            }
+            else if (this.arvutaHetkeHind() == s.arvutaHetkeHind())
+            {
+                return 0;
+            }
+            else
+            {
+                return -1;
+            }
+        }
     }
 }
