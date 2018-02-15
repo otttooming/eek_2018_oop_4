@@ -1,0 +1,6 @@
+c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\bin\Debug\OOP_Tallinn_2018k_pr3.exe.config
+c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\bin\Debug\OOP_Tallinn_2018k_pr3.exe
+c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\bin\Debug\OOP_Tallinn_2018k_pr3.pdb
+c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\obj\Debug\OOP_Tallinn_2018k_pr3.csprojResolveAssemblyReference.cache
+c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\obj\Debug\OOP_Tallinn_2018k_pr3.exe
+c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\obj\Debug\OOP_Tallinn_2018k_pr3.pdb
