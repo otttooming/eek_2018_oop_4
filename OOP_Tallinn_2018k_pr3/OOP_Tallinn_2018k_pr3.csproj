@@ -55,6 +55,7 @@
     <Compile Include="HybridCar.cs" />
     <Compile Include="SoidukVaJargi.cs" />
     <Compile Include="SoidukRegNrJargi.cs" />
+    <Compile Include="SoidukKaaluJargi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -14,6 +14,7 @@ namespace OOP_Tallinn_2018k_pr3
         protected double alghind;
 
         public int tagastaVa() { return va; }
+        public double tagastaKaal() { return kaal; }
 
         public Soiduk(int va = 0, string regNr = "--", double kaal = 0, double alghind=0)
         {

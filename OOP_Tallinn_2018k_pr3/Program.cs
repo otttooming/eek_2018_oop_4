@@ -137,6 +137,19 @@ namespace OOP_Tallinn_2018k_pr3
                 Console.WriteLine();
             }
 
+            // Jaaaa4rjestada DH_Soidukid kaalu jaaaa4rgi
+
+            Console.WriteLine("\n sorted by DHL weight");
+            SoidukKaaluJargi objWeight = new SoidukKaaluJargi();
+
+            AutodParklas.Sort(objWeight);
+            foreach (Soiduk x in DHL_soidukid)
+            {
+                x.tryki();
+
+                Console.WriteLine();
+            }
+
             Console.Read();
         }
     }

@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{1551B2AC-7F5B-48F0-AB99-DA3333ED8103}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Tallinn_2018k_pr3/EmptyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Tallinn_2018k_pr3/Program.cs">
     <Files>
       <File FileName="OOP_Tallinn_2018k_pr3/Laev.cs" Line="44" Column="14" />
       <File FileName="OOP_Tallinn_2018k_pr3/Soiduk.cs" Line="16" Column="45" />
@@ -9,9 +9,10 @@
       <File FileName="OOP_Tallinn_2018k_pr3/FossilCar.cs" Line="18" Column="24" />
       <File FileName="OOP_Tallinn_2018k_pr3/ElectricCar.cs" Line="18" Column="24" />
       <File FileName="OOP_Tallinn_2018k_pr3/HybridCar.cs" Line="28" Column="9" />
-      <File FileName="OOP_Tallinn_2018k_pr3/Program.cs" Line="130" Column="29" />
-      <File FileName="OOP_Tallinn_2018k_pr3/SoidukVaJargi.cs" Line="22" Column="1" />
-      <File FileName="OOP_Tallinn_2018k_pr3/EmptyClass.cs" Line="22" Column="1" />
+      <File FileName="OOP_Tallinn_2018k_pr3/Program.cs" Line="137" Column="37" />
+      <File FileName="OOP_Tallinn_2018k_pr3/SoidukVaJargi.cs" Line="17" Column="17" />
+      <File FileName="OOP_Tallinn_2018k_pr3/SoidukRegNrJargi.cs" Line="17" Column="1" />
+      <File FileName="OOP_Tallinn_2018k_pr3/SoidukKaaluJargi.cs" Line="8" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.OOP__Tallinn__2018k__pr3 PreferredExecutionTarget="MonoDevelop.Default" />
