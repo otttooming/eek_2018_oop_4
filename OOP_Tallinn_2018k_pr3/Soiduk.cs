@@ -13,6 +13,8 @@ namespace OOP_Tallinn_2018k_pr3
         protected double kaal;
         protected double alghind;
 
+        public int tagastaVa() { return va; }
+
         public Soiduk(int va = 0, string regNr = "--", double kaal = 0, double alghind=0)
         {
             this.va = va;

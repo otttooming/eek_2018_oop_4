@@ -115,6 +115,16 @@ namespace OOP_Tallinn_2018k_pr3
                 Console.WriteLine(" {}");
             }
 
+            Console.WriteLine("\n sorted by year of release");
+            SoidukVaJargi obj = new SoidukVaJargi();
+
+            AutodParklas.Sort(obj);
+            foreach (Auto x in AutodParklas)
+            {
+                x.tryki();
+
+                Console.WriteLine();
+            }
 
             Console.Read();
         }

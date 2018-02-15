@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{1551B2AC-7F5B-48F0-AB99-DA3333ED8103}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Tallinn_2018k_pr3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Tallinn_2018k_pr3/SoidukVaJargi.cs">
     <Files>
       <File FileName="OOP_Tallinn_2018k_pr3/Laev.cs" Line="44" Column="14" />
-      <File FileName="OOP_Tallinn_2018k_pr3/Soiduk.cs" Line="21" Column="11" />
+      <File FileName="OOP_Tallinn_2018k_pr3/Soiduk.cs" Line="11" Column="45" />
       <File FileName="OOP_Tallinn_2018k_pr3/Auto.cs" Line="30" Column="23" />
       <File FileName="OOP_Tallinn_2018k_pr3/Utiliit.cs" Line="1" Column="1" />
       <File FileName="OOP_Tallinn_2018k_pr3/Lennuk.cs" Line="1" Column="1" />
-      <File FileName="OOP_Tallinn_2018k_pr3/FossilCar.cs" Line="6" Column="1" />
-      <File FileName="OOP_Tallinn_2018k_pr3/ElectricCar.cs" Line="18" Column="1" />
-      <File FileName="OOP_Tallinn_2018k_pr3/HybridCar.cs" Line="33" Column="10" />
-      <File FileName="OOP_Tallinn_2018k_pr3/Program.cs" Line="111" Column="1" />
+      <File FileName="OOP_Tallinn_2018k_pr3/FossilCar.cs" Line="18" Column="24" />
+      <File FileName="OOP_Tallinn_2018k_pr3/ElectricCar.cs" Line="18" Column="24" />
+      <File FileName="OOP_Tallinn_2018k_pr3/HybridCar.cs" Line="28" Column="9" />
+      <File FileName="OOP_Tallinn_2018k_pr3/Program.cs" Line="119" Column="26" />
+      <File FileName="OOP_Tallinn_2018k_pr3/SoidukVaJargi.cs" Line="4" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.OOP__Tallinn__2018k__pr3 PreferredExecutionTarget="MonoDevelop.Default" />
