@@ -126,6 +126,17 @@ namespace OOP_Tallinn_2018k_pr3
                 Console.WriteLine();
             }
 
+            Console.WriteLine("\n sorted by reg nr");
+            SoidukRegNrJargi objRegNr = new SoidukRegNrJargi();
+
+            AutodParklas.Sort(objRegNr);
+            foreach (Auto x in AutodParklas)
+            {
+                x.tryki();
+
+                Console.WriteLine();
+            }
+
             Console.Read();
         }
     }
