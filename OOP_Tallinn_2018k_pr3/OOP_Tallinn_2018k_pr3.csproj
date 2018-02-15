@@ -51,6 +51,7 @@
     <Compile Include="Soiduk.cs" />
     <Compile Include="Utiliit.cs" />
     <Compile Include="FossilCar.cs" />
+    <Compile Include="ElectricCar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
