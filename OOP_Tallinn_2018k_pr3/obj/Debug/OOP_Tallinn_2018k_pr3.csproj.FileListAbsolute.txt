@@ -1,6 +1,13 @@
-c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\bin\Debug\OOP_Tallinn_2018k_pr3.exe.config
-c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\bin\Debug\OOP_Tallinn_2018k_pr3.exe
-c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\bin\Debug\OOP_Tallinn_2018k_pr3.pdb
-c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\obj\Debug\OOP_Tallinn_2018k_pr3.csprojResolveAssemblyReference.cache
-c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\obj\Debug\OOP_Tallinn_2018k_pr3.exe
-c:\users\õppejõud\documents\visual studio 2015\Projects\OOP_Tallinn_2018k_pr3\OOP_Tallinn_2018k_pr3\obj\Debug\OOP_Tallinn_2018k_pr3.pdb
+c:/users/õppejõud/documents/visual studio 2015/Projects/OOP_Tallinn_2018k_pr3/OOP_Tallinn_2018k_pr3/bin/Debug/OOP_Tallinn_2018k_pr3.exe.config
+c:/users/õppejõud/documents/visual studio 2015/Projects/OOP_Tallinn_2018k_pr3/OOP_Tallinn_2018k_pr3/bin/Debug/OOP_Tallinn_2018k_pr3.exe
+c:/users/õppejõud/documents/visual studio 2015/Projects/OOP_Tallinn_2018k_pr3/OOP_Tallinn_2018k_pr3/bin/Debug/OOP_Tallinn_2018k_pr3.pdb
+c:/users/õppejõud/documents/visual studio 2015/Projects/OOP_Tallinn_2018k_pr3/OOP_Tallinn_2018k_pr3/obj/Debug/OOP_Tallinn_2018k_pr3.csprojResolveAssemblyReference.cache
+c:/users/õppejõud/documents/visual studio 2015/Projects/OOP_Tallinn_2018k_pr3/OOP_Tallinn_2018k_pr3/obj/Debug/OOP_Tallinn_2018k_pr3.exe
+c:/users/õppejõud/documents/visual studio 2015/Projects/OOP_Tallinn_2018k_pr3/OOP_Tallinn_2018k_pr3/obj/Debug/OOP_Tallinn_2018k_pr3.pdb
+/Users/otttooming/Projects/eek_2018_oop_4/OOP_Tallinn_2018k_pr3/bin/Debug/OOP_Tallinn_2018k_pr3.exe.config
+/Users/otttooming/Projects/eek_2018_oop_4/OOP_Tallinn_2018k_pr3/bin/Debug/OOP_Tallinn_2018k_pr3.exe
+/Users/otttooming/Projects/eek_2018_oop_4/OOP_Tallinn_2018k_pr3/bin/Debug/OOP_Tallinn_2018k_pr3.pdb
+/Users/otttooming/Projects/eek_2018_oop_4/OOP_Tallinn_2018k_pr3/obj/Debug/OOP_Tallinn_2018k_pr3.csprojResolveAssemblyReference.cache
+/Users/otttooming/Projects/eek_2018_oop_4/OOP_Tallinn_2018k_pr3/obj/Debug/OOP_Tallinn_2018k_pr3.csproj.CoreCompileInputs.cache
+/Users/otttooming/Projects/eek_2018_oop_4/OOP_Tallinn_2018k_pr3/obj/Debug/OOP_Tallinn_2018k_pr3.exe
+/Users/otttooming/Projects/eek_2018_oop_4/OOP_Tallinn_2018k_pr3/obj/Debug/OOP_Tallinn_2018k_pr3.pdb

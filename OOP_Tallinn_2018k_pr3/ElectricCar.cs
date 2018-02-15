@@ -15,7 +15,7 @@ namespace OOP_Tallinn_2018k_pr3
 
         public ElectricCar(ElectricCar ob) : base(ob) { this.akuMaht = ob.akuMaht; this.km_kwh = ob.km_kwh; }
 
-        new public virtual void tryki()
+        public override void tryki()
         {
             base.tryki();
             Console.Write(" {0,3} {1,3:f1}", akuMaht, km_kwh);
