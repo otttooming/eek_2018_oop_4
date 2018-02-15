@@ -52,6 +52,7 @@
     <Compile Include="Utiliit.cs" />
     <Compile Include="FossilCar.cs" />
     <Compile Include="ElectricCar.cs" />
+    <Compile Include="HybridCar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
