@@ -56,6 +56,19 @@ namespace OOP_Tallinn_2018k_pr3
         public static bool operator ==(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() == b.arvutaHetkeHind(); }
         public static bool operator !=(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() != b.arvutaHetkeHind(); }
 
+        public override bool Equals(object obj)
+        {
+            if (obj == null || this.GetType() != obj.GetType())
+                return false;
+            else
+                return this.arvutaHetkeHind() == ((Soiduk)obj).arvutaHetkeHind();
+        }
+
+        public override int GetHashCode()
+        {
+            return (int)(100 * this.arvutaVanus());
+        }
+
         public int CompareTo(Soiduk s)
         {
             if (this < s)

@@ -150,6 +150,16 @@ namespace OOP_Tallinn_2018k_pr3
                 Console.WriteLine();
             }
 
+            // Compare plane pricing
+            Console.WriteLine("Compare plane prices");
+
+            if (Bowing < AirBus)
+                Console.WriteLine("Boeing hetkehind on madalam");
+            else if (Bowing > AirBus)
+                Console.WriteLine("Airbus hetkehind on madalam");
+            else
+                Console.WriteLine("Hinnad vordsed");
+
             Console.Read();
         }
     }
