@@ -48,13 +48,21 @@ namespace OOP_Tallinn_2018k_pr3
 
         public abstract double arvutaHetkeHind();
 
+        // Must be paired, e.g. > and <
+        public static bool operator <(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() < b.arvutaHetkeHind(); }
+        public static bool operator >(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() > b.arvutaHetkeHind(); }
+        public static bool operator <=(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() <= b.arvutaHetkeHind(); }
+        public static bool operator >=(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() >= b.arvutaHetkeHind(); }
+        public static bool operator ==(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() == b.arvutaHetkeHind(); }
+        public static bool operator !=(Soiduk a, Soiduk b) { return a.arvutaHetkeHind() != b.arvutaHetkeHind(); }
+
         public int CompareTo(Soiduk s)
         {
-            if (this.arvutaHetkeHind() < s.arvutaHetkeHind())
+            if (this < s)
             {
                 return 1;
             }
-            else if (this.arvutaHetkeHind() == s.arvutaHetkeHind())
+            else if (this == s)
             {
                 return 0;
             }
