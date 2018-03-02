@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{1551B2AC-7F5B-48F0-AB99-DA3333ED8103}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Tallinn_2018k_pr3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Tallinn_2018k_pr3/Soiduk.cs">
     <Files>
       <File FileName="OOP_Tallinn_2018k_pr3/Laev.cs" Line="44" Column="14" />
-      <File FileName="OOP_Tallinn_2018k_pr3/Soiduk.cs" Line="49" Column="50" />
+      <File FileName="OOP_Tallinn_2018k_pr3/Soiduk.cs" Line="46" Column="9" />
       <File FileName="OOP_Tallinn_2018k_pr3/Auto.cs" Line="30" Column="23" />
       <File FileName="OOP_Tallinn_2018k_pr3/Utiliit.cs" Line="1" Column="1" />
       <File FileName="OOP_Tallinn_2018k_pr3/Lennuk.cs" Line="10" Column="6" />
@@ -12,7 +12,7 @@
       <File FileName="OOP_Tallinn_2018k_pr3/SoidukVaJargi.cs" Line="13" Column="1" />
       <File FileName="OOP_Tallinn_2018k_pr3/SoidukRegNrJargi.cs" Line="17" Column="1" />
       <File FileName="OOP_Tallinn_2018k_pr3/SoidukKaaluJargi.cs" Line="9" Column="47" />
-      <File FileName="OOP_Tallinn_2018k_pr3/Program.cs" Line="1" Column="1" />
+      <File FileName="OOP_Tallinn_2018k_pr3/Program.cs" Line="140" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.OOP__Tallinn__2018k__pr3 PreferredExecutionTarget="MonoDevelop.Default" />
